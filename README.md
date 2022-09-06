@@ -2,7 +2,7 @@
 
 #This is my Final FRT Project Named ONLINE RECHARGE
 
-#Website Link For My project by using Microsoft Azure :
+#Website Link For My project by using Microsoft Azure : https://red-ground-096241510.1.azurestaticapps.net
 
 ![1](https://user-images.githubusercontent.com/112337431/188420923-2e1b599a-7082-4216-a7e4-b777be8f1262.jpg)
 ![2](https://user-images.githubusercontent.com/112337431/188420961-08dacead-7fac-4f63-87c7-2756c5ac3a7d.jpg)
